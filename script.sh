@@ -13,6 +13,3 @@ free -m >> monitorizacion.txt
 echo "" >> monitorizacion.txt
 echo "Comprobador del Sistema de Archivos" >> monitorizacion.txt
 df -H >> monitorizacion.txt
-
-mkdir /home/usuario/Escritorio/Prueba
-mv monitorizacion.txt /home/usuario/Escritorio/Prueba
